@@ -9,7 +9,7 @@
 * So I'm basic an :alien: in this world. I’m currently learning HTML, CSS, JavaScript and Java **on my own**.
 
 
-* In 2022 I started a new adventure and I'm currently computer science college student. 
+* In 2022 I started a new adventure and I'm currently computer science college student. :computer:
 
 ### 📫 How to reach me:
 - [E-mail](mailto:jadesiebra@outlook.com) :whale2:
