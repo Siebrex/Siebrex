@@ -8,8 +8,9 @@
 
 * So I'm basic an :alien: in this world. I’m currently learning HTML, CSS, JavaScript and Java **on my own**.
 
-
 * In 2022 I started a new adventure and I'm currently computer science college student. :computer:
+
+[![Siebrex's GitHub stats](https://github-readme-stats.vercel.app/api?username=siebrex)](https://github.com/siebrex/github-readme-stats)
 
 ### 📫 How to reach me:
 - [E-mail](mailto:jadesiebra@outlook.com) :whale2:
