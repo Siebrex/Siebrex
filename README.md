@@ -1,7 +1,7 @@
 # JADE SIEBRA :rainbow:
 
 
-* Hi, my name is Jade, I'm graduated in law school :flushed:, but I'm trying to find my away on the incredible world of programming :sparkles:. 
+* Hi, my name is Jade, I'm graduated in law school :flushed:, but I'm trying to find my way on the incredible world of programming :sparkles:. 
 
 * I consider myself a very calm and loving person, a huge fan of sports, passionate about biking, in love with animals and learning new things :grin:.
 
