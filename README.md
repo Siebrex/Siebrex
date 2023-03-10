@@ -10,8 +10,6 @@
 
 * In 2022 I started a new adventure and I'm currently computer science college student. :computer:
 
-[![Siebrex's GitHub stats](https://github-readme-stats.vercel.app/api?username=siebrex)](https://github.com/siebrex/github-readme-stats)
-
 ### 📫 How to reach me:
 - [E-mail](mailto:jadesiebra@outlook.com) :whale2:
 - [Linkedin](https://www.linkedin.com/in/jade-siebra-de-oliveira-6a938921b/) :wolf:
