@@ -10,7 +10,7 @@
 
 * In 2022 I started a new adventure and I'm currently computer science college student. :computer:.
 
-* Now I´m looking for a internship to acquire more knowledge and practice more. 
+* Now I´m looking for a internship to acquire more knowledge and practice. 
 
 ### 📫 How to reach me:
 - [E-mail](mailto:jadesiebra@outlook.com) :whale2:
