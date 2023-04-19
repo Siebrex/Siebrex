@@ -3,7 +3,7 @@
 
 * Hi, my name is Jade, I'm graduated in law school :flushed:, but I'm trying to find my way on the incredible world of programming :sparkles:. 
 
-* I consider myself a very calm and loving person, a huge fan of sports, passionate about biking, in love with animals and learning new things :grin:.
+* I consider myself a very calm and lovely person, a huge fan of sports, passionate about biking, in love with animals and learning new things :grin:.
 
 
 * So I'm basic an :alien: in this world. I’m currently learning HTML, CSS, JavaScript and Java **on my own**.
